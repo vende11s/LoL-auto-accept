@@ -8,6 +8,6 @@ pip3 install -r requirements.txt
 python3 autoaccept.py
 ```
 
-Now u game will be accepted automatically :) 
+Now ur game will be accepted automatically :) 
 # Limitations
 Keep league client on your primary monitor, elseways it wont work
